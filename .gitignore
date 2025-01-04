@@ -1,0 +1,32 @@
+# Bytecode compilado do Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.bak
+*.swp
+
+# Arquivos de banco de dados
+*.sqlite3
+
+# Arquivos do Jupyter
+.ipynb_checkpoints/
