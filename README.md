@@ -1,8 +1,8 @@
-# Projeto Python com OCR
+# Python Project with OCR
 
-Este é um projeto Python para processar imagens com OCR (Reconhecimento Óptico de Caracteres). O projeto já vem com algumas imagens de exemplo para testar. Siga as instruções abaixo para inicializar e rodar o projeto.
+This is a Python project to process images with OCR (Optical Character Recognition). The project comes with some sample images for testing. Follow the instructions below to initialize and run the project.
 
-## Requisitos
+## Requirements
 
 Certifique-se de ter o Python 3.x instalado em sua máquina. Você pode verificar a versão do Python com o comando:
 
@@ -11,27 +11,27 @@ python --version
 
 ```
 
-## clone o repositorio
+## Clone Repository
 
 ```bash
 
 git clone https://github.com/gustavohpereira/project_tcg.git
 ```
 
-## (Opcional) Criar um Ambiente Virtual
+## (Optional) Create a Virtual Environment
 
 ```bash
 python -m venv venv
 .\venv\Scripts\activate
 ```
 
-## Instalar as Dependências
+## Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Rodar o projeto
+## Run the project
 
 ```bash
 py main.py
